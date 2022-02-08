@@ -1,0 +1,50 @@
+[
+    {
+        "id": 1,
+        "name":"ENGINE DIAGNOSTIC",
+        "price":2000,
+        "time":2,
+        "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Doloribus rem debitis repudiandae harum, odio optio.",
+        "img":"https://i.ibb.co/7yVhtfz/1.jpg"
+    },
+    {
+        "id": 2,
+        "name":"WHEEL ALIGNMENT",
+        "price":120,
+        "time":2,
+        "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Doloribus rem debitis repudiandae harum, odio optio.",
+        "img":"https://i.ibb.co/BNQQT0b/2.jpg"
+    },
+    {
+        "id": 3,
+        "name":"OIL CHANGING",
+        "price":150,
+        "time":2,
+        "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Doloribus rem debitis repudiandae harum, odio optio.",
+        "img":"https://i.ibb.co/cT1zjXR/3.jpg"
+    },
+    {
+        "id": 4,
+        "name":"BRAKE REPARING",
+        "price":180,
+        "time":2,
+        "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Doloribus rem debitis repudiandae harum, odio optio.",
+        "img":"https://i.ibb.co/sV2t5Qr/4.jpg"
+    },
+    {
+        "id": 5,
+        "name":"WASH AND GLASSING",
+        "price":220,
+        "time":2,
+        "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Doloribus rem debitis repudiandae harum, odio optio.",
+        "img":"https://i.ibb.co/hCFygkh/5.jpg"
+    },
+    {
+        "id": 6,
+        "name":"REPLACE TIRE",
+        "price":250,
+        "time":2,
+        "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Doloribus rem debitis repudiandae harum, odio optio.",
+        "img":"https://i.ibb.co/4Zsh9P5/6.jpg"
+    }
+]
