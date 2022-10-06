@@ -1,5 +1,3 @@
-console.log(process.env);
-
 const firebaseConfig = {
   apiKey: "AIzaSyC0VCc43PM_cbndgHBB9sJr0SqBRQf0zws",
   authDomain: "smart-car-mechanics.firebaseapp.com",
